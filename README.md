@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jevita Pearl Crasta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevitapearl&label=Profile%20views&color=0e75b6&style=flat" alt="jevitapearl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jevitapearl" alt="jevitapearl" /></a> </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 - 🌱 I’m currently learning **React.js, node.js**
 
